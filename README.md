@@ -21,11 +21,11 @@ Notebook 開始部分包含數據集的載入與初步處理，包括處理遺�
 
 # 依賴
 此 Notebook 需要以下 Python 套件：
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
 （具體依賴會根據 Notebook 中實際 import 的模組進行調整）
 
 # 使用方式
