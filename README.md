@@ -17,7 +17,7 @@
 
 # 依賴
 此 Notebook 需要以下 Python 套件：
-- pandas
+- '''pandas'''
 - numpy
 - matplotlib
 - seaborn
