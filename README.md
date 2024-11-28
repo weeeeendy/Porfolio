@@ -18,10 +18,10 @@
 # 依賴
 此 Notebook 需要以下 Python 套件：
 - ```pandas```
-- numpy
-- matplotlib
-- seaborn
-- scikit-learn
+- ```numpy```
+- ```matplotlib```
+- ```seaborn```
+- ```scikit-learn```
 （具體依賴會根據 Notebook 中實際 import 的模組進行調整）
 
 # 使用方式
